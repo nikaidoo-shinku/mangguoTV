@@ -4,7 +4,7 @@
 
 ### 2、**技术栈**：
 
-- 前端：vue2 + js、scss、Vue Router、vuex、axios;
+- 前端：vue2 + js、sass、Vue Router、vuex、axios;
 - vue 项目基于@vue/cli 5.0.8 搭建;
 - UI 组件库：vant、swiper;
 - 后端数据：使用 fask mock 模拟后端 api 数据;
