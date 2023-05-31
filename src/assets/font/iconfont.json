@@ -1,0 +1,149 @@
+{
+  "id": "4083147",
+  "name": "芒果TV",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "438594",
+      "name": "4 返回顶部 橙",
+      "font_class": "4fanhuidingbucheng",
+      "unicode": "e85d",
+      "unicode_decimal": 59485
+    },
+    {
+      "icon_id": "11372651",
+      "name": "点赞",
+      "font_class": "dianzan",
+      "unicode": "e8ad",
+      "unicode_decimal": 59565
+    },
+    {
+      "icon_id": "11372701",
+      "name": "收藏",
+      "font_class": "shoucang",
+      "unicode": "e8b9",
+      "unicode_decimal": 59577
+    },
+    {
+      "icon_id": "11372758",
+      "name": "点赞",
+      "font_class": "dianzan1",
+      "unicode": "e8c3",
+      "unicode_decimal": 59587
+    },
+    {
+      "icon_id": "11372777",
+      "name": "收藏",
+      "font_class": "shoucang1",
+      "unicode": "e8c6",
+      "unicode_decimal": 59590
+    },
+    {
+      "icon_id": "12978138",
+      "name": "分享",
+      "font_class": "fenxiang",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "33138023",
+      "name": "评论",
+      "font_class": "pinglun",
+      "unicode": "e713",
+      "unicode_decimal": 59155
+    },
+    {
+      "icon_id": "7312571",
+      "name": "播放",
+      "font_class": "bofang-",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "7594175",
+      "name": "24gf-playSquare",
+      "font_class": "24gf-playSquare",
+      "unicode": "ea88",
+      "unicode_decimal": 60040
+    },
+    {
+      "icon_id": "658025",
+      "name": "关闭",
+      "font_class": "guanbi",
+      "unicode": "e659",
+      "unicode_decimal": 58969
+    },
+    {
+      "icon_id": "344008",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e650",
+      "unicode_decimal": 58960
+    },
+    {
+      "icon_id": "1115048",
+      "name": "箭头",
+      "font_class": "jiantou",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "1115052",
+      "name": "箭头3",
+      "font_class": "jiantou3",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "2578488",
+      "name": "登录",
+      "font_class": "denglu",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "7417090",
+      "name": "历史记录",
+      "font_class": "lishijilu",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "10289731",
+      "name": "收起",
+      "font_class": "icon_function_shouqi",
+      "unicode": "e891",
+      "unicode_decimal": 59537
+    },
+    {
+      "icon_id": "11096632",
+      "name": "芒果TV-01",
+      "font_class": "mangguoTV-",
+      "unicode": "e639",
+      "unicode_decimal": 58937
+    },
+    {
+      "icon_id": "25332655",
+      "name": "剩余观看",
+      "font_class": "shengyuguankan",
+      "unicode": "e646",
+      "unicode_decimal": 58950
+    },
+    {
+      "icon_id": "27402562",
+      "name": "芒果TV",
+      "font_class": "mangguoTV",
+      "unicode": "ee48",
+      "unicode_decimal": 61000
+    },
+    {
+      "icon_id": "31819852",
+      "name": "展开更多-线",
+      "font_class": "zhankaigengduo-xian",
+      "unicode": "e89e",
+      "unicode_decimal": 59550
+    }
+  ]
+}
